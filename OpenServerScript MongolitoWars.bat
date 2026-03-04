@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\user\Documents\Unreal Projects\MongolitoWars\MongolitoWars.uproject" Lobby -server -log -nosteam
